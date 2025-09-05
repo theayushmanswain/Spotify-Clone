@@ -20,3 +20,4 @@
  # 🛠️ Technologies Used
   HTML5
   CSS3 (Flexbox, Grid, Animations, Transitions)
+  Bootstrap
